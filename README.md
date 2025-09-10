@@ -1,2 +1,2 @@
-Parcial primer corte - parte 2 - grupo B
+# Parcial primer corte - parte 2 
 Repositorio del parcial del primer corte Grupo B
