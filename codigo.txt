@@ -1,0 +1,11 @@
+//func suma(a, b) = a + b;
+//func cuadrado(x) = x * x;
+//func potencia(x, y) = x ^ y;
+//print suma(4, 5);
+//print cuadrado(3);
+//print potencia(2, 4);
+//print potencia(3, suma(2,2));
+
+func mult(a, b) = a * b; 
+print mult(5); 
+print potencia(2,3); 
